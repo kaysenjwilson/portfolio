@@ -12,9 +12,9 @@ const HeroSection = () => {
     window.open("/images/Kaysen-Resume.pdf", "_blank");
   };
   const handleHireMeClick = () => {
-    scroll.scrollTo(window.innerHeight * 3, {
+    scroll.scrollTo(window.innerHeight * 7, {
       smooth: true,
-      duration: 1000,
+      duration: 2000,
     });
   };
   return (

@@ -50,7 +50,7 @@ const AboutSection = () => {
             foundation in technologies like Node.js, Express, JavaScript, React,
             and Next.js. My journey in web development started at the Tooele
             Technical College. I love turning ideas into interactive and
-            user-friendly experiences. Over the years, I've honed my skills
+            user-friendly experiences. I've honed my skills
             through hands-on projects and a commitment to staying updated with
             the latest industry trends. My problem-solving mindset and attention
             to detail help me craft clean, efficient, and scalable code. Whether
