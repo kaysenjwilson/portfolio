@@ -40,16 +40,26 @@ const AboutSection = () => {
     });
   };
   return (
-    <section className="text-white">
+    <section id="about" className="text-white">
       <div className="md:grid md:grid-cols-2 gap-8 items-center py-8 px-4 xl:gap-16 sm:py-16 xl:px-16">
         <Image src="/images/about-image.png" width={500} height={500} />
         <div className="mt-4 md:mt-0 text-left flex flex-col h-full">
           <h2 className="text-4xl font-bold text-white mb-4">About Me</h2>
           <p className="text-base lg:text-lg">
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolore, sed
-            pariatur. Illo, commodi nisi recusandae ab quidem, eum blanditiis
-            laborum impedit, omnis sequi corrupti dignissimos iusto mollitia
-            placeat architecto explicabo.
+            Hi there! I'm Kaysen, a passionate web developer with a strong
+            foundation in technologies like Node.js, Express, JavaScript, React,
+            and Next.js. My journey in web development started at the Tooele
+            Technical College. I love turning ideas into interactive and
+            user-friendly experiences. Over the years, I've honed my skills
+            through hands-on projects and a commitment to staying updated with
+            the latest industry trends. My problem-solving mindset and attention
+            to detail help me craft clean, efficient, and scalable code. Whether
+            it's building responsive user interfaces or optimizing server-side
+            performance, I thrive in collaborative environments where creativity
+            and innovation are encouraged. I'm excited about the endless
+            possibilities in web development and am eager to contribute my
+            skills to impactful projects. Let's connect and discuss how I can
+            bring my passion for coding to your team!
           </p>
           <div className="flex flex-row mt-8">
             <TabButton
